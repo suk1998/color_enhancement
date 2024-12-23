@@ -6,6 +6,7 @@ You can apply this cube file to an image or a video.
 Due to the differences between the CIE 1931 and CIE LUV color spaces, the results differ when mapping linear color enhancements. It can be observed that color enhancement in the CIE LUV color space results in more uniform improvements.
 
 ##EDSR Upscaling withtout Color Enhancement Algorithm
+![EDSR_Upscaling_without_ColorEnhancement](https://github.com/suk1998/color_enhancement/blob/main/Gettyimages-1435476284_EDSR_jpeg70.jpg)
 
 
 ##EDSR Upscaling with CIE 1931 Color Enhancement Algorithm
