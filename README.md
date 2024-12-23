@@ -13,8 +13,9 @@ EDSR Upscaling with CIE 1931 Color Enhancement Algorithm
 EDSR Upscaling with CIE LUV Color Enhancement Algorithm
 
 
+![Uploading CIELUV_LUT1.4_applied_Gettyimages-EDSR_jpeg70.jpg…]()
 
-![CIELUV_LUT1.4_applied](https://github.com/user/repo-name/blob/branch-name/path-to-CIELUV-image.jpg)
+
 
 
 
