@@ -8,14 +8,17 @@ Due to the differences between the CIE 1931 and CIE LUV color spaces, the result
 EDSR Upscaling without Color Enhancement
 
 
-![Gettyimages-1435476284_EDSR_jpeg90](https://github.com/user-attachments/assets/7f2aecdc-dbde-41de-a3a9-79d3e57b7d9c)
+![Gettyimages-1435476284_EDSR_jpeg70](https://github.com/user-attachments/assets/216cabc1-0dc0-42c9-bf39-19ccef5178db)
+
 
 EDSR Upscaling with CIE 1931 Color Enhancement Algorithm
 
-![CIE1931_applied_Gettyimages-1435476284_EDSRl_jpeg90](https://github.com/user-attachments/assets/cb0114a1-f2ad-4905-8d55-90e6f8b392a3)
+![CIE1931_applied_Gettyimages-1435476284_EDSRl_jpeg70](https://github.com/user-attachments/assets/c296438c-14fc-4823-ac99-266a61d7100d)
+
 
 EDSR Upscaling with CIE LUV Color Enhancement Algorithm
 
 
-![Uploading CIELUV_LUT1.4_applied_Gettyimages-1435476284_EDSRl_jpeg90.jpg…]()
+![Uploading CIELUV_LUT1.4_applied_Gettyimages-1435476284_EDSRl_jpeg70.jpg…]()
+
 
