@@ -22,3 +22,6 @@ EDSR Upscaling with CIE LUV Color Enhancement Algorithm
 ![Uploading CIELUV_LUT1.4_applied_Gettyimages-1435476284_EDSRl_jpeg70.jpg…]()
 
 
+reference: https://hs-paik.netlify.app/cieluv_color
+
+
